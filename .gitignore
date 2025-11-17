@@ -405,3 +405,7 @@ Makefile
 *.swp
 *.swo
 *.swn
+
+# mine
+br.sh
+log.txt
