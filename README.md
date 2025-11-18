@@ -1,5 +1,5 @@
 # To run:
-Follow the start up guide below to build, then run the binary(s) in the bin folder: ./bin/debug/<root-dir-name>
+Follow the start up guide below to build, then run the binary(s) in the bin folder: ./bin/debug/raylib-2d-collision-detection
 
 # Raylib-Quickstart
 A simple cross platform template for setting up a project with the bleeding edge raylib code.
