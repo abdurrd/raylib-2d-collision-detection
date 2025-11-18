@@ -1,4 +1,4 @@
-#To run:
+# To run:
 Follow the start up guide below to build, then run the binary(s) in the bin folder: ./bin/debug/<root-dir-name>
 
 # Raylib-Quickstart
