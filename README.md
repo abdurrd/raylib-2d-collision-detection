@@ -1,3 +1,6 @@
+#To run:
+Follow the start up guide below to build, then run the binary(s) in the bin folder: ./bin/debug/<root-dir-name>
+
 # Raylib-Quickstart
 A simple cross platform template for setting up a project with the bleeding edge raylib code.
 Works with C or C++.
